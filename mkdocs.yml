@@ -1,3 +1,63 @@
-site_name: My Docs
+site_name: DeepLearning
+site_url: https://dplrn.ai
+site_description: DeepLearning
+
+repo_url: https://github.com/xuehangcang/DeepLearning
+repo_name: xuehangcang/DeepLearning
+
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+  #  主题灯光
+  palette:
+    primary: white
+    accent: white
+  font:
+    text: Roboto
+  homepage: https://dplrn.ai
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+ - search:
+     lang: en
+
+edit_uri: "https://github.com/xuehangcang/DeepLearning"
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/xuehangcang
+    - icon: fontawesome/brands/github
+      link: https://github.com/xuehangcang
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:xuehangcang@outlook.com
+copyright: Copyright &copy; 2023 Xuehang Cang
+
+nav:
+  - DeepLearning: 'index.md'
+  - PyTorch:
+    - 1. PyTorch 基础知识: 'PyTorch/1.基础知识.md'
+
