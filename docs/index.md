@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# 欢迎来到 DeepLearning
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+深度学习是机器学习的一种，它利用神经网络来模拟人脑的学习过程，从而实现对数据的自动分析和学习。它已经在图像识别、语音识别、自然语言处理、推荐系统等多个领域取得了重大突破。
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+在这里，将整理一些深度学习的基础知识和最新进展，包括以下内容：
 
-## Project layout
+- 神经网络的基础知识和实现
+- 卷积神经网络（CNN）和循环神经网络（RNN）的原理和应用
+- 深度强化学习的方法和应用
+- 深度学习在计算机视觉、自然语言处理、语音识别等领域的应用案例
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+如果需要完整项目文档，请访问 [GitHub DeepLearning](https://github.com/xuehangcang/DeepLearning).
