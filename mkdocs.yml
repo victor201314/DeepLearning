@@ -67,10 +67,9 @@ copyright: Copyright &copy; 2023 Xuehang Cang
 nav:
   - DeepLearning: 'index.md'
   - Python:
-    - Python: 'Python/Python.md'
     - 面向对象: 'Python/面向对象.md'
     - 进阶语法: 'Python/进阶语法.md'
   - PyTorch:
-    - PyTorch: 'PyTorch/PyTorch.md'
+    - 1.基础知识: 'PyTorch/1.基础知识.ipynb'
   - Models:
     - Models: 'Models/Models.md'
