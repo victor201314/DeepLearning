@@ -2,8 +2,8 @@ site_name: DeepLearning
 site_url: https://dplrn.ai
 site_description: DeepLearning
 
-repo_url: https://github.com/xuehangcang/DeepLearning
-repo_name: xuehangcang/DeepLearning
+#repo_url: https://github.com/xuehangcang/DeepLearning
+#repo_name: xuehangcang/DeepLearning
 
 theme:
   name: material
@@ -66,11 +66,10 @@ copyright: Copyright &copy; 2023 Xuehang Cang
 
 nav:
   - DeepLearning: 'index.md'
-  - Python:
-    - 面向对象: 'Python/面向对象.md'
-    - 进阶语法: 'Python/进阶语法.md'
+#  - Python:
+#    - 面向对象: 'Python/面向对象.md'
+#    - 进阶语法: 'Python/进阶语法.md'
   - PyTorch:
       - 基础知识:
         - 1.快速入门: 'PyTorch/基础知识/1.快速入门.ipynb'
-  - Models:
-    - Models: 'Models/Models.md'
+        - 2.张量: 'PyTorch/基础知识/2.张量.ipynb'

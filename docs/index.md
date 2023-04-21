@@ -16,4 +16,4 @@ hide:
 - 深度强化学习的方法和应用
 - 深度学习在计算机视觉、自然语言处理、语音识别等领域的应用案例
 
-如果需要完整项目文档，请访问 [GitHub DeepLearning](https://github.com/xuehangcang/DeepLearning).
+如果需要完整项目文档，请访问 [DeepLearning](http‘s://github.com/xuehangcang/DeepLearning).
