@@ -70,7 +70,7 @@ nav:
     - 面向对象: 'Python/面向对象.md'
     - 进阶语法: 'Python/进阶语法.md'
   - PyTorch:
-    - 1.基础知识: 'PyTorch/1.基础知识.ipynb'
-    - 2.线性回归: 'PyTorch/2.线性回归.ipynb'
+      - 基础知识:
+        - 1.快速入门: 'PyTorch/基础知识/1.快速入门.ipynb'
   - Models:
     - Models: 'Models/Models.md'
