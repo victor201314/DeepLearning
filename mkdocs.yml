@@ -70,12 +70,16 @@ nav:
 #    - 面向对象: 'Python/面向对象.md'
 #    - 进阶语法: 'Python/进阶语法.md'
   - PyTorch:
-      - 基础知识:
-        - 1.快速入门: 'PyTorch/基础知识/1.快速入门.ipynb'
-        - 2.张量: 'PyTorch/基础知识/2.张量.ipynb'
-        - 3.数据集和数据加载器: 'PyTorch/基础知识/3.数据集和数据加载器.ipynb'
-        - 4.变换: 'PyTorch/基础知识/4.变换.ipynb'
-        - 5.构建神经网络: 'PyTorch/基础知识/5.构建神经网络.ipynb'
-        - 6.自动微分: 'PyTorch/基础知识/6.自动微分.ipynb'
-        - 7.优化模型参数: 'PyTorch/基础知识/7.优化模型参数.ipynb'
-        - 8.保存和加载模型: 'PyTorch/基础知识/8.保存和加载模型.ipynb'
+      - Pytorch: 'PyTorch/Pytorch.md'
+      - Pytorch 快速入门:
+        - 1.快速入门: 'PyTorch/Pytorch 快速入门/1.快速入门.ipynb'
+        - 2.张量: 'PyTorch/Pytorch 快速入门/2.张量.ipynb'
+        - 3.数据集和数据加载器: 'PyTorch/Pytorch 快速入门/3.数据集和数据加载器.ipynb'
+        - 4.变换: 'PyTorch/Pytorch 快速入门/4.变换.ipynb'
+        - 5.构建神经网络: 'PyTorch/Pytorch 快速入门/5.构建神经网络.ipynb'
+        - 6.自动微分: 'PyTorch/Pytorch 快速入门/6.自动微分.ipynb'
+        - 7.优化模型参数: 'PyTorch/Pytorch 快速入门/7.优化模型参数.ipynb'
+        - 8.保存和加载模型: 'PyTorch/Pytorch 快速入门/8.保存和加载模型.ipynb'
+      - Pytorch 论文复现:
+          - 卷积神经网络:
+            - 1.AlexNet: 'PyTorch/Pytorch 论文复现/卷积神经网络/1.AlexNet.ipynb'
