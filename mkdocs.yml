@@ -2,8 +2,8 @@ site_name: DeepLearning
 site_url: https://dplrn.ai
 site_description: DeepLearning
 
-#repo_url: https://github.com/xuehangcang/DeepLearning
-#repo_name: xuehangcang/DeepLearning
+repo_url: https://github.com/xuehangcang/DeepLearning
+repo_name: xuehangcang/DeepLearning
 
 theme:
   name: material
