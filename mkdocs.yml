@@ -83,3 +83,5 @@ nav:
       - Pytorch 论文复现:
           - 卷积神经网络:
             - 1.AlexNet: 'PyTorch/Pytorch 论文复现/卷积神经网络/1.AlexNet.ipynb'
+          - 循环神经网络:
+            - 1.LSTM: 'PyTorch/Pytorch 论文复现/循环神经网络/1.LSTM.ipynb'
