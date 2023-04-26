@@ -87,3 +87,5 @@ nav:
             - 1.LSTM: 'PyTorch/Pytorch 论文复现/循环神经网络/1.LSTM.ipynb'
           - 自注意力机制:
             - 1.ViT: 'PyTorch/Pytorch 论文复现/自注意力机制/1.ViT.ipynb'
+          - 生成对抗网络:
+            - 1.GAN: 'PyTorch/Pytorch 论文复现/生成对抗网络/1.GAN.ipynb'
